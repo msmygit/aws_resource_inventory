@@ -1,5 +1,9 @@
 # AWS Cloud Resources Inventory
 
+## Prerequisites
+1. Install [`aws` CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+2. Have an active AWS account with right permissions
+
 ## Authenticate locally in your terminal
 ```bash
 aws sso login
